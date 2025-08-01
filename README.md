@@ -54,7 +54,7 @@ This project leverages transfer learning with the VGG16 convolutional neural net
 ## 🔧 Files Included
 
 - `alzheimers_model_builder.py`: Contains model training code
-- `evaluate_model.py`: Generates metrics and evaluation reports
+- `VGG16_ModelImprovement_Report.pdf`: Contains generated metrics and evaluation reports
 
 
 ## 🧪 Future Improvements
